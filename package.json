@@ -1,0 +1,17 @@
+{
+  "name": "string-test4-meeting-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
